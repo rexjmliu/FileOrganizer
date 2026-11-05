@@ -51,7 +51,7 @@ Python program that organizes different file types into different folders.
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/rexliu3/FileOrganizer.git
+   git clone https://github.com/rexjmliu/FileOrganizer.git
    ```
 2. Enter the folder path in `Main.py`
    ```py
@@ -68,7 +68,7 @@ Run `Main.py`: ``` python3 Main.py ```
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/rexliu3/FileOrganizer/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/rexjmliu/FileOrganizer/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -91,18 +91,18 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Rex Liu - rexliu3@berkeley.edu
 
-Project Link: [https://github.com/rexliu3/FileOrganizer](https://github.com/rexliu3/FileOrganizer)
+Project Link: [https://github.com/rexjmliu/FileOrganizer](https://github.com/rexjmliu/FileOrganizer)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/rexliu3/FileOrganizer?style=for-the-badge
-[contributors-url]: https://github.com/rexliu3/FileOrganizer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rexliu3/FileOrganizer?style=for-the-badge
-[forks-url]: https://github.com/rexliu3/FileOrganizer/network/members
-[stars-shield]: https://img.shields.io/github/stars/rexliu3/FileOrganizer?style=for-the-badge
-[stars-url]: https://github.com/rexliu3/FileOrganizer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rexliu3/FileOrganizer?style=for-the-badge
-[issues-url]: https://github.com/rexliu3/FileOrganizer/issues
+[contributors-shield]: https://img.shields.io/github/contributors/rexjmliu/FileOrganizer?style=for-the-badge
+[contributors-url]: https://github.com/rexjmliu/FileOrganizer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rexjmliu/FileOrganizer?style=for-the-badge
+[forks-url]: https://github.com/rexjmliu/FileOrganizer/network/members
+[stars-shield]: https://img.shields.io/github/stars/rexjmliu/FileOrganizer?style=for-the-badge
+[stars-url]: https://github.com/rexjmliu/FileOrganizer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rexjmliu/FileOrganizer?style=for-the-badge
+[issues-url]: https://github.com/rexjmliu/FileOrganizer/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/rexliu3/FileOrganizer/blob/master/LICENSE.txt
+[license-url]: https://github.com/rexjmliu/FileOrganizer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/rexliu3
+[linkedin-url]: https://linkedin.com/in/rexjmliu
